@@ -1,0 +1,19 @@
+# 本地 TLS 证书（含本机代理根证书，禁止入库）
+.certs/
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 环境与密钥
+.env
+.env.local
+
+# 日志
+*.log
